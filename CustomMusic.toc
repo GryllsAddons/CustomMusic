@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: CustomMusic
+## Author: Grylls
+## Notes: adds custom music
+## Version: 1
+
+CustomMusic.lua
